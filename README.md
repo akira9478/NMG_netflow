@@ -1,14 +1,25 @@
 # NMG_netflow
 東海資工網路流量管理介面
 
+![image](https://github.com/akira9478/NMG_netflow/blob/master/demo.JPG)
+
+ 
  大學時期在東海資工系上網路管理小組時寫的流量控管的介面
- 採用技術:
-  數據:cacti流量控管軟體
-  後端:Linux,PHP,mysql
-  前端:Bootstrap,jquery
-  驗證:LDAP
+ 
+ ## 採用技術:
+ ***
+ 
+ 數據:cacti流量控管軟體
+ 
+ 後端:Linux,PHP,mysql
+ 
+ 前端:Bootstrap,jquery
+ 
+ 驗證:LDAP
+ 
  
 ##主要功能
+***
 ### 實驗室流量圖
  大智慧科技大樓3F4F5F各資工系實驗室的流量
 
@@ -18,7 +29,9 @@
 ### 連結數TOP20
  連接數前20名
 
+
 ## 後台額外功能
+***
 ### Snort分析
  snort alert入侵偵測
  
@@ -29,7 +42,9 @@
 
 ### Port管理
  管理系上違規port
-
+ *此功能為小靳製作*
+ 
 ###Switch狀況
   圖示化各Switch連線狀況
+  *此功能為秉澤製作*
  
